@@ -1,16 +1,25 @@
-## Hi there 👋
+# 안녕하세요! 👋
 
-<!--
-**peter3227/peter3227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 소개
+저는 김정욱 입니다. 소프트웨어 개발자이자 기술을 사랑하는 사람입니다. 다양한 프로젝트를 통해 배운 기술과 경험을 공유하고 싶습니다.
 
-Here are some ideas to get you started:
+- **위치**: 대구, 대한민국
+- **전공**: 컴퓨터학부 소프트웨어융합전공
+- **경력**: (아직 없음)
+- **특기**: Java, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 경험
+- **nothing**
+    
+## 🌱 현재 배우고 있는 것
+- 오픈소스소프트웨어
+- 컴퓨터구조
+- 자료구조
+- 컴퓨터네트워크
+- 인공지능기초
+
+## 📫 연락처
+- 이메일: [kim01085943227@gmail.com](mailto:kim01085943227@gmail.com)
+- GitHub: (https://github.com/peter3227)
+
+감사합니다! 😊
